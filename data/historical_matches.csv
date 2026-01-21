@@ -14,7 +14,9 @@ season,date,venue,team1,team2,winner
 2023,2023-03-15,DY Patil Stadium,UP Warriorz,Royal Challengers Bengaluru,Royal Challengers Bengaluru
 2023,2023-03-16,Brabourne Stadium,Delhi Capitals,Gujarat Giants,Delhi Capitals
 2023,2023-03-18,DY Patil Stadium,Mumbai Indians,UP Warriorz,UP Warriorz
+2023,2023-03-18,Brabourne Stadium,Royal Challengers Bengaluru,Gujarat Giants,Royal Challengers Bengaluru
 2023,2023-03-20,Brabourne Stadium,Gujarat Giants,UP Warriorz,Gujarat Giants
+2023,2023-03-20,DY Patil Stadium,Mumbai Indians,Delhi Capitals,Delhi Capitals
 2023,2023-03-21,DY Patil Stadium,Royal Challengers Bengaluru,Mumbai Indians,Mumbai Indians
 2023,2023-03-21,Brabourne Stadium,UP Warriorz,Delhi Capitals,Delhi Capitals
 2023,2023-03-24,DY Patil Stadium,Mumbai Indians,UP Warriorz,Mumbai Indians
@@ -41,13 +43,28 @@ season,date,venue,team1,team2,winner
 2024,2024-03-13,Arun Jaitley Stadium,Delhi Capitals,Gujarat Giants,Delhi Capitals
 2024,2024-03-15,Arun Jaitley Stadium,Mumbai Indians,Royal Challengers Bengaluru,Royal Challengers Bengaluru
 2024,2024-03-17,Arun Jaitley Stadium,Delhi Capitals,Royal Challengers Bengaluru,Royal Challengers Bengaluru
-2025,2025-02-14,Chinnaswamy Stadium,Mumbai Indians,Delhi Capitals,Mumbai Indians
-2025,2025-02-15,Chinnaswamy Stadium,Royal Challengers Bengaluru,UP Warriorz,Royal Challengers Bengaluru
-2025,2025-02-16,Chinnaswamy Stadium,Gujarat Giants,Mumbai Indians,Mumbai Indians
-2025,2025-02-17,Chinnaswamy Stadium,UP Warriorz,Delhi Capitals,Delhi Capitals
-2025,2025-02-18,Chinnaswamy Stadium,Royal Challengers Bengaluru,Gujarat Giants,Royal Challengers Bengaluru
-2025,2025-02-23,Brabourne Stadium,Mumbai Indians,Delhi Capitals,Mumbai Indians
-2025,2025-03-02,Brabourne Stadium,Mumbai Indians,Delhi Capitals,Mumbai Indians
+2025,2025-02-14,Kotambi Stadium,Gujarat Giants,Royal Challengers Bengaluru,Royal Challengers Bengaluru
+2025,2025-02-15,Kotambi Stadium,Mumbai Indians,Delhi Capitals,Delhi Capitals
+2025,2025-02-16,Kotambi Stadium,UP Warriorz,Gujarat Giants,Gujarat Giants
+2025,2025-02-17,Kotambi Stadium,Royal Challengers Bengaluru,Delhi Capitals,Royal Challengers Bengaluru
+2025,2025-02-18,Kotambi Stadium,Gujarat Giants,Mumbai Indians,Mumbai Indians
+2025,2025-02-19,Kotambi Stadium,UP Warriorz,Delhi Capitals,Delhi Capitals
+2025,2025-02-21,Chinnaswamy Stadium,Royal Challengers Bengaluru,Mumbai Indians,Mumbai Indians
+2025,2025-02-22,Chinnaswamy Stadium,UP Warriorz,Delhi Capitals,UP Warriorz
+2025,2025-02-24,Chinnaswamy Stadium,UP Warriorz,Royal Challengers Bengaluru,UP Warriorz
+2025,2025-02-25,Chinnaswamy Stadium,Delhi Capitals,Gujarat Giants,Delhi Capitals
+2025,2025-02-26,Chinnaswamy Stadium,Mumbai Indians,UP Warriorz,Mumbai Indians
+2025,2025-02-27,Chinnaswamy Stadium,Gujarat Giants,Royal Challengers Bengaluru,Gujarat Giants
+2025,2025-02-28,Chinnaswamy Stadium,Mumbai Indians,Delhi Capitals,Delhi Capitals
+2025,2025-03-01,Chinnaswamy Stadium,Royal Challengers Bengaluru,Delhi Capitals,Delhi Capitals
+2025,2025-03-03,Ekana Stadium,Gujarat Giants,UP Warriorz,Gujarat Giants
+2025,2025-03-06,Ekana Stadium,UP Warriorz,Mumbai Indians,Mumbai Indians
+2025,2025-03-07,Ekana Stadium,Delhi Capitals,Gujarat Giants,Gujarat Giants
+2025,2025-03-08,Ekana Stadium,UP Warriorz,Royal Challengers Bengaluru,UP Warriorz
+2025,2025-03-10,Brabourne Stadium,Mumbai Indians,Gujarat Giants,Mumbai Indians
+2025,2025-03-11,Brabourne Stadium,Royal Challengers Bengaluru,Mumbai Indians,Royal Challengers Bengaluru
+2025,2025-03-13,Brabourne Stadium,Mumbai Indians,Gujarat Giants,Mumbai Indians
+2025,2025-03-15,Brabourne Stadium,Delhi Capitals,Mumbai Indians,Mumbai Indians
 2026,2026-01-09,DY Patil Stadium,Mumbai Indians,Royal Challengers Bengaluru,Royal Challengers Bengaluru
 2026,2026-01-10,DY Patil Stadium,UP Warriorz,Gujarat Giants,Gujarat Giants
 2026,2026-01-10,DY Patil Stadium,Mumbai Indians,Delhi Capitals,Mumbai Indians
@@ -59,3 +76,5 @@ season,date,venue,team1,team2,winner
 2026,2026-01-16,DY Patil Stadium,Royal Challengers Bengaluru,Gujarat Giants,Royal Challengers Bengaluru
 2026,2026-01-17,DY Patil Stadium,UP Warriorz,Mumbai Indians,UP Warriorz
 2026,2026-01-17,DY Patil Stadium,Delhi Capitals,Royal Challengers Bengaluru,Royal Challengers Bengaluru
+2026,2026-01-19,BCA Stadium,Gujarat Giants,Royal Challengers Bengaluru,Royal Challengers Bengaluru
+2026,2026-01-20,BCA Stadium,Delhi Capitals,Mumbai Indians,Delhi Capitals

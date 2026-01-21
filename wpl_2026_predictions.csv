@@ -1,21 +1,8 @@
 Date,Venue,Team 1,Team 2,T1 Form,T2 Form,Predicted Winner,Confidence
-2026-01-09,DY Patil Stadium,Mumbai Indians,Royal Challengers Bengaluru,0.80,1.00,Royal Challengers Bengaluru,58.32%
-2026-01-10,DY Patil Stadium,UP Warriorz,Gujarat Giants,0.00,0.20,Gujarat Giants,67.27%
-2026-01-10,DY Patil Stadium,Mumbai Indians,Delhi Capitals,0.80,0.20,Mumbai Indians,88.29%
-2026-01-11,DY Patil Stadium,Delhi Capitals,Gujarat Giants,0.20,0.40,Gujarat Giants,63.33%
-2026-01-12,DY Patil Stadium,Royal Challengers Bengaluru,UP Warriorz,1.00,0.00,Royal Challengers Bengaluru,62.13%
-2026-01-13,DY Patil Stadium,Mumbai Indians,Gujarat Giants,0.80,0.40,Mumbai Indians,88.25%
-2026-01-14,DY Patil Stadium,UP Warriorz,Delhi Capitals,0.00,0.20,Delhi Capitals,77.92%
-2026-01-15,DY Patil Stadium,Mumbai Indians,UP Warriorz,0.80,0.00,UP Warriorz,51.66%
-2026-01-16,DY Patil Stadium,Royal Challengers Bengaluru,Gujarat Giants,1.00,0.40,Royal Challengers Bengaluru,88.75%
-2026-01-17,DY Patil Stadium,UP Warriorz,Mumbai Indians,0.20,0.60,Mumbai Indians,59.38%
-2026-01-17,DY Patil Stadium,Delhi Capitals,Royal Challengers Bengaluru,0.20,1.00,Royal Challengers Bengaluru,75.92%
-2026-01-19,BCA Stadium,Gujarat Giants,Royal Challengers Bengaluru,0.40,1.00,Royal Challengers Bengaluru,80.26%
-2026-01-20,BCA Stadium,Delhi Capitals,Mumbai Indians,0.20,0.40,Mumbai Indians,59.20%
-2026-01-22,BCA Stadium,Gujarat Giants,UP Warriorz,0.40,0.40,Gujarat Giants,51.07%
-2026-01-24,BCA Stadium,Royal Challengers Bengaluru,Delhi Capitals,1.00,0.20,Royal Challengers Bengaluru,85.22%
-2026-01-26,BCA Stadium,Royal Challengers Bengaluru,Mumbai Indians,1.00,0.40,Royal Challengers Bengaluru,73.32%
-2026-01-27,BCA Stadium,Gujarat Giants,Delhi Capitals,0.40,0.20,Gujarat Giants,56.71%
-2026-01-29,BCA Stadium,UP Warriorz,Royal Challengers Bengaluru,0.40,1.00,Royal Challengers Bengaluru,81.71%
-2026-01-30,BCA Stadium,Gujarat Giants,Mumbai Indians,0.40,0.40,Mumbai Indians,59.11%
-2026-02-01,BCA Stadium,Delhi Capitals,UP Warriorz,0.20,0.40,Delhi Capitals,51.13%
+2026-01-22,BCA Stadium,Gujarat Giants,UP Warriorz,0.40,0.40,Gujarat Giants,83.19%
+2026-01-24,BCA Stadium,Royal Challengers Bengaluru,Delhi Capitals,1.00,0.40,Delhi Capitals,52.09%
+2026-01-26,BCA Stadium,Royal Challengers Bengaluru,Mumbai Indians,1.00,0.40,Mumbai Indians,61.64%
+2026-01-27,BCA Stadium,Gujarat Giants,Delhi Capitals,0.40,0.40,Gujarat Giants,54.87%
+2026-01-29,BCA Stadium,UP Warriorz,Royal Challengers Bengaluru,0.40,1.00,Royal Challengers Bengaluru,69.88%
+2026-01-30,BCA Stadium,Gujarat Giants,Mumbai Indians,0.40,0.40,Gujarat Giants,68.31%
+2026-02-01,BCA Stadium,Delhi Capitals,UP Warriorz,0.40,0.40,Delhi Capitals,85.17%
