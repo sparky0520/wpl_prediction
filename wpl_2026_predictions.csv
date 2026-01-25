@@ -1,8 +1,6 @@
 Date,Venue,Team 1,Team 2,T1 Form,T2 Form,Predicted Winner,Confidence
-2026-01-22,BCA Stadium,Gujarat Giants,UP Warriorz,0.40,0.40,Gujarat Giants,83.19%
-2026-01-24,BCA Stadium,Royal Challengers Bengaluru,Delhi Capitals,1.00,0.40,Delhi Capitals,52.09%
-2026-01-26,BCA Stadium,Royal Challengers Bengaluru,Mumbai Indians,1.00,0.40,Mumbai Indians,61.64%
-2026-01-27,BCA Stadium,Gujarat Giants,Delhi Capitals,0.40,0.40,Gujarat Giants,54.87%
-2026-01-29,BCA Stadium,UP Warriorz,Royal Challengers Bengaluru,0.40,1.00,Royal Challengers Bengaluru,69.88%
-2026-01-30,BCA Stadium,Gujarat Giants,Mumbai Indians,0.40,0.40,Gujarat Giants,68.31%
-2026-02-01,BCA Stadium,Delhi Capitals,UP Warriorz,0.40,0.40,Delhi Capitals,85.17%
+2026-01-26,BCA Stadium,Royal Challengers Bengaluru,Mumbai Indians,0.80,0.40,Mumbai Indians,69.07%
+2026-01-27,BCA Stadium,Gujarat Giants,Delhi Capitals,0.40,0.60,Delhi Capitals,74.34%
+2026-01-29,BCA Stadium,UP Warriorz,Royal Challengers Bengaluru,0.40,0.80,Royal Challengers Bengaluru,65.14%
+2026-01-30,BCA Stadium,Gujarat Giants,Mumbai Indians,0.40,0.40,Gujarat Giants,72.76%
+2026-02-01,BCA Stadium,Delhi Capitals,UP Warriorz,0.60,0.40,Delhi Capitals,86.26%
